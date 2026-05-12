@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-d1cdac4f.zappy5.app
+https://example.com
 פלטפורמת החינוך המובילה לתלמידים בישראל. מא עד יב מציעה תכנים לכל שכבות הגיל, מהיסודי ועד התיכון. הצטרף עכשיו והתחל ללמוד!
 
 ### מסלולי למידה
-https://-d1cdac4f.zappy5.app/learning-paths
+https://example.com/learning-paths
 מסלולי למידה מותאמים אישית לכל תלמיד, מהכיתה הראשונה ועד כיתה יב. גלה תכנים מקצועיים בחינוך ופתח את הפוטנציאל שלך עם מא עד יב.
 
 ### אודות
-https://-d1cdac4f.zappy5.app/about
+https://example.com/about
 למדו מי אנחנו ולמה הקמנו את מא עד יב. חזוננו הוא להנגיש חינוך איכותי לכל תלמיד בישראל, מהאל&quot;ף ועד ה-יו&quot;ד בית. הכירו את הצוות שמשנה את פני החינוך.
 
 ### צור קשר
-https://-d1cdac4f.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלות על תכנים, מסלולי לימוד או שיתופי פעולה? צוות מא עד יב כאן בשבילכם. צרו קשר עוד היום ונעזור לכם למצוא את הדרך הנכונה בחינוך.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d1cdac4f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d1cdac4f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d1cdac4f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-d1cdac4f.zappy5.app/contact
-- Endpoint: https://-d1cdac4f.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ An educational website called 'מא עד יב' (From Alef to Yud-Bet), targeting
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-d1cdac4f.zappy5.app/sitemap.xml
-- Robots: https://-d1cdac4f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-d1cdac4f.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
