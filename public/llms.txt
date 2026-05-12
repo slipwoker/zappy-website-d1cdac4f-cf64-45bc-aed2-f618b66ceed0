@@ -1,0 +1,78 @@
+# מא עד יב — Generative Engine Optimization Map
+
+> An educational website called 'מא עד יב' (From Alef to Yud-Bet), targeting students. The name suggests a comprehensive learning platform covering a full range of content, likely from beginner to advanced levels or spanning all school grades. The platform appears to be focused on the Hebrew-speaking student audience.
+
+---
+
+## Pages
+
+### בית
+https://-d1cdac4f.zappy5.app
+פלטפורמת החינוך המובילה לתלמידים בישראל. מא עד יב מציעה תכנים לכל שכבות הגיל, מהיסודי ועד התיכון. הצטרף עכשיו והתחל ללמוד!
+
+### מסלולי למידה
+https://-d1cdac4f.zappy5.app/learning-paths
+מסלולי למידה מותאמים אישית לכל תלמיד, מהכיתה הראשונה ועד כיתה יב. גלה תכנים מקצועיים בחינוך ופתח את הפוטנציאל שלך עם מא עד יב.
+
+### אודות
+https://-d1cdac4f.zappy5.app/about
+למדו מי אנחנו ולמה הקמנו את מא עד יב. חזוננו הוא להנגיש חינוך איכותי לכל תלמיד בישראל, מהאל&quot;ף ועד ה-יו&quot;ד בית. הכירו את הצוות שמשנה את פני החינוך.
+
+### צור קשר
+https://-d1cdac4f.zappy5.app/contact
+יש לכם שאלות על תכנים, מסלולי לימוד או שיתופי פעולה? צוות מא עד יב כאן בשבילכם. צרו קשר עוד היום ונעזור לכם למצוא את הדרך הנכונה בחינוך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d1cdac4f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d1cdac4f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d1cdac4f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-d1cdac4f.zappy5.app/contact
+- Endpoint: https://-d1cdac4f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מא עד יב
+An educational website called 'מא עד יב' (From Alef to Yud-Bet), targeting students. The name suggests a comprehensive learning platform covering a full range of content, likely from beginner to advanced levels or spanning all school grades. The platform appears to be focused on the Hebrew-speaking student audience.
+
+## Target Audience
+- תלמידים
+- תלמידי בית ספר
+- הורים מעורבים בחינוך
+
+## Industry
+חינוך
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-d1cdac4f.zappy5.app/sitemap.xml
+- Robots: https://-d1cdac4f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-d1cdac4f.zappy5.app/llms-full.txt
